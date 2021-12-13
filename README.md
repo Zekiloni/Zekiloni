@@ -16,7 +16,7 @@ Fullstack Developer & Designer
 * Electron
 * Vue3
 * Cryptography
-* MySQL
+* MySQL / SQL
 * Photoshop
 
 ---
