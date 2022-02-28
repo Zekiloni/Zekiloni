@@ -10,11 +10,11 @@ Fullstack Developer & Designer
 
 * C
 * C++
-* TypeScript
-* JavaScript
+* JavaScript / TypeScript
+* PHP
 * NodeJS
 * Electron
-* Vue3
+* Vue3, Vue2
 * Cryptography
 * MySQL / SQL
 * Photoshop
