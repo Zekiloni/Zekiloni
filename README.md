@@ -19,6 +19,7 @@ Fullstack Developer & Designer
 * Cryptography
 * MySQL / SQL
 * Photoshop
+* Github Actions and Continuous Integration
 
 ---
 
