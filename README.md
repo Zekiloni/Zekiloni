@@ -1,6 +1,6 @@
 # Zekiloni
 
-![Zekiloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zekiloni&show_icons=true&theme=radical)
+![Zekiloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zekiloni&show_icons=true&theme=onedark)
 
 
 Fullstack Developer & Designer
