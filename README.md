@@ -25,4 +25,4 @@ Fullstack Developer & Designer
 
 ![](https://komarev.com/ghpvc/?username=Zekiloni)
 
-One Dark: Pro Darker ❤️
+One Dark: Pro Darker ❤️ Material Theme Palenight, High Contract
