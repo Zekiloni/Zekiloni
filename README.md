@@ -9,18 +9,19 @@ Fullstack Developer & Designer
 
 #### **Skillset**
 
+* PHP
 * C
 * C++
 * JavaScript / TypeScript
-* PHP
 * NodeJS
 * Electron
 * Vue3, Vue2
 * NestJS, Nuxt.js 
 * Cryptography
 * MySQL / SQL
-* Photoshop
+* MongoDB
 * Github Actions and Continuous Integration
+* Adobe Photoshop / Adobe Illustrator
 
 ---
 
