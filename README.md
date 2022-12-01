@@ -16,6 +16,7 @@ Fullstack Developer & Designer
 * NodeJS
 * Electron
 * Vue3, Vue2
+* NestJS, Nuxt.js 
 * Cryptography
 * MySQL / SQL
 * Photoshop
