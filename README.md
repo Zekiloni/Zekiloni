@@ -12,6 +12,7 @@ Fullstack Developer & Designer
 * PHP
 * C
 * C++
+* C3
 * Python
 * JavaScript / TypeScript
 * NodeJS
