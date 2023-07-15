@@ -13,12 +13,15 @@ Fullstack Developer & Designer
 * C
 * C++
 * C#
+* Java
+* Spring Boot
 * Python
 * JavaScript / TypeScript
 * NodeJS
 * Electron
 * Vue3, Vue2
-* NestJS, Nuxt.js 
+* NestJS
+* Nuxt.js 
 * Cryptography
 * MySQL / SQL
 * MongoDB
