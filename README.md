@@ -18,6 +18,7 @@ Fullstack Developer & Designer
 * Python
 * JavaScript / TypeScript
 * NodeJS
+* Express
 * Electron
 * Vue3, Vue2
 * NestJS
