@@ -2,6 +2,7 @@
 
 ![Zekiloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zekiloni&show_icons=true&theme=onedark)
 
+![](https://komarev.com/ghpvc/?username=Zekiloni)
 
 Fullstack Developer & Designer
 
@@ -31,8 +32,6 @@ Fullstack Developer & Designer
 * Adobe Photoshop / Adobe Illustrator
 
 ---
-
-![](https://komarev.com/ghpvc/?username=Zekiloni)
 
 ## 🌈 Visual Studio Code favourite themes & icons
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) 
