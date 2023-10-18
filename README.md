@@ -28,7 +28,10 @@ Fullstack Developer & Designer
 * MySQL / SQL
 * PostgreSQL
 * MongoDB
+* Docker
 * GitHub Actions and Continuous Integration
+* Bitbucket
+* Jira and Atlassian Bitbucket
 * Adobe Photoshop / Adobe Illustrator
 
 ---
