@@ -7,7 +7,7 @@ Fullstack Developer & Designer
 
 ---
 
-#### **Skillset**
+## **Skillset**
 
 * PHP
 * C
@@ -27,11 +27,15 @@ Fullstack Developer & Designer
 * MySQL / SQL
 * PostgreSQL
 * MongoDB
-* Github Actions and Continuous Integration
+* GitHub Actions and Continuous Integration
 * Adobe Photoshop / Adobe Illustrator
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=Zekiloni)
 
-One Dark: Pro Darker ❤️ Material Theme Palenight, High Contract
+## 🌈 Visual Studio Code favourite themes & icons
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) 
+- [Aura Soft Dark](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) 
+- [One Dark: Pro Darker](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+- [Material Theme Palenight, High Contracte](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme)
