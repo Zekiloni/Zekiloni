@@ -25,13 +25,12 @@ Fullstack Developer & Designer
 * Nuxt.js
 * Python
 * Cryptography
-* MySQL / SQL
-* PostgreSQL
+* SQL
+* MySQL / PostgreSQL
 * MongoDB
 * Docker
 * GitHub Actions and Continuous Integration
-* Bitbucket
-* Jira and Atlassian Bitbucket
+* Atlassian Suitcase
 * Adobe Photoshop / Adobe Illustrator
 
 ---
