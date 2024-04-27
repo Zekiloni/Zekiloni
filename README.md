@@ -11,6 +11,7 @@ Fullstack Developer & Designer
 ## **Skillset**
 
 * PHP
+* Laravel
 * C
 * C++
 * C#
