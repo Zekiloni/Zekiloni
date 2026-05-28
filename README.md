@@ -67,9 +67,3 @@ Fullstack Developer & Designer
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
 ---
-
-## 🌈 Visual Studio Code favourite themes & icons
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) 
-- [Aura Soft Dark](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) 
-- [One Dark: Pro Darker](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-- [Material Theme Palenight, High Contracte](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme)
