@@ -1,6 +1,6 @@
 # Zekiloni
 
-![Zekiloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zekiloni&show_icons=true&theme=onedark)
+![Zekiloni's GitHub Stats](./profile-summary-card-output/onedark.svg)
 
 ![](https://komarev.com/ghpvc/?username=Zekiloni)
 
@@ -29,7 +29,7 @@ Fullstack Developer & Designer
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![NextJS](https://img.shields.io/badge/NextJS-E0234E?logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 
 ---
@@ -43,6 +43,11 @@ Fullstack Developer & Designer
 
 #### 🔐 Security & Cryptography
 ![Cryptography](https://img.shields.io/badge/Cryptography-232F3E?logo=keybase&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3F51B5?logo=openid&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-2F3136?logo=keycloak&logoColor=0096D6)
+![JWT](https://img.shields.io/badge/JWT-black?logo=json-web-tokens&logoColor=FB005B)
+![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?logo=letsencrypt&logoColor=white)
+![RBAC](https://img.shields.io/badge/Access_Control-RBAC-0052CC)
 
 ---
 
