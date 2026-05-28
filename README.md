@@ -1,7 +1,5 @@
 # Zekiloni
 
-![Zekiloni's GitHub Stats](./profile-summary-card-output/onedark.svg)
-
 ![](https://komarev.com/ghpvc/?username=Zekiloni)
 
 Fullstack Developer & Designer
