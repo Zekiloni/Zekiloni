@@ -22,7 +22,6 @@ Fullstack Developer & Designer
 ---
 
 #### ⚙️ Frameworks & Runtimes
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
@@ -30,6 +29,8 @@ Fullstack Developer & Designer
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-E0234E?logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 
 ---
 
