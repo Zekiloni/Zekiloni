@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Zekiloni)
 
-Fullstack Developer & Designer
+Software Engineer & Designer
 
 ---
 
